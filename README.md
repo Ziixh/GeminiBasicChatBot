@@ -33,7 +33,7 @@ fasttutorial/
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-   
+    git clone https://github.com/Ziixh/GeminiBasicChatBot
 Navigate to the project folder:
    cd fasttutorial
 
@@ -58,13 +58,6 @@ Running the Streamlit App
 Open your browser and navigate to the provided local URL (e.g., http://localhost:8501).
 
 
-Dependencies
-The project uses the following Python libraries:
-    fastapi
-    streamlit
-    google-generativeai
-    python-dotenv
-    uvicorn
 All dependencies are listed in the requirements.txt file.
 
 
