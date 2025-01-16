@@ -47,13 +47,6 @@ Running the Streamlit App
 Open your browser and navigate to the provided local URL (e.g., http://localhost:8501).
 
 
-Dependencies
-The project uses the following Python libraries:
-    fastapi
-    streamlit
-    google-generativeai
-    python-dotenv
-    uvicorn
 All dependencies are listed in the requirements.txt file.
 
 
