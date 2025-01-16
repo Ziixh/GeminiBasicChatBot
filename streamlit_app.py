@@ -5,7 +5,7 @@ import requests
 FASTAPI_URL = "http://127.0.0.1:8000"  # Update this if your FastAPI server is running elsewhere
 
 # Streamlit app title
-st.title("Gemini API Chatbot")
+st.title("Gemini API Chatbot Basic Level")
 
 # Input field for user prompt
 user_prompt = st.text_input("Enter your prompt:")
