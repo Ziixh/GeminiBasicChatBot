@@ -10,19 +10,6 @@ This project is a REST API built using **FastAPI**, integrated with the **Gemini
 - **Streamlit Frontend**: A simple and interactive web interface for users to input prompts and view responses.
 
 ---
-
-## Project Structure
-fasttutorial/
-├── main.py # FastAPI application
-├── streamlit_app.py # Streamlit application
-├── .env # Environment variables (not included in the repository)
-├── requirements.txt # List of dependencies
-├── README.md # Project documentation
-└── .gitignore # Files and folders to ignore in Git
-
-
----
-
 ## How to Use
 
 ### Prerequisites
@@ -32,6 +19,8 @@ fasttutorial/
 ### Installation
 1. Clone this repository:
    ```bash
+   
+   git clone https://github.com/Ziixh/GeminiBasicChatBot
    git clone https://github.com/your-username/your-repo-name.git
 Navigate to the project folder:
    cd fasttutorial
